@@ -1,13 +1,14 @@
-# Skillbox_weblayout_3.0_Module-5_task-2_Gazprom-bank_about-Gazprom-bank
+# En: Skillbox_weblayout_3.0_Module-5_task-2_Gazprom-bank_about-Gazprom-bank
+# Ru: Skillbox_weblayout_3.0_Модуль-5_Задание-2_Газпромбанк_О-Газпромбанке
 
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 #### Please give this project a ⭐ if you found it interesting.
 
-## RU: Completed coursework for the Skillbox Web Development 3.0 course, Module 5, Assignment 2: Single-page layout for the Gazprombank site Gorod Pay. 
+## Ru: Completed coursework for the Skillbox Web Development 3.0 course, Module 5, Assignment 2: Single-page layout for the Gazprombank site Gorod Pay. 
 
 ## En: Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 5, задание 2. Макет одной страницы Газпром банк.
 
-## RU: Выполненное задание: 
+## Ru: Выполненное задание: 
 Сверстайте на странице онлайн-журнала «Про финансы» для сайта «Газпромбанка» шапку и основное содержимое страницы со статьями, включающее в себя сетку из различных карточек и боковую навигационную панель, основываясь на дизайне из предоставленного макета в Figma.
 
 ## En: Completed Task:
