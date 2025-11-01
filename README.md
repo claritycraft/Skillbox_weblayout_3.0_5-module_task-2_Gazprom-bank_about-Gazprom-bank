@@ -14,9 +14,9 @@
 Layout the header and main content area of the “Pro Finance” online magazine page for the Gazprombank website.
 The content includes a grid of various article cards and a sidebar navigation panel, based on the design provided in the Figma mockup.
 
-En: Portfolio layout link: https://www.figma.com/design/6j9HAENvBYCOv5ZlQ9dJjG/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-2384?node-id=1-395&t=KunCNIyliqSfIMrh-0
+En: Portfolio layout link: https://www.figma.com/design/UyCvNmvTXrGgajdKsAHvsQ/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%94%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-FWEB-5358?node-id=1-2&p=f&t=bZFuqNFbDwrahGyi-0
 
-Ru: Ссылка на макет c портфолио: https://www.figma.com/design/6j9HAENvBYCOv5ZlQ9dJjG/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-2384?node-id=1-395&t=KunCNIyliqSfIMrh-0
+Ru: Ссылка на макет c портфолио: https://www.figma.com/design/UyCvNmvTXrGgajdKsAHvsQ/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%94%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-FWEB-5358?node-id=1-2&p=f&t=bZFuqNFbDwrahGyi-0
 
 ## Technologies Used
 - HTML5
