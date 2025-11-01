@@ -8,12 +8,12 @@
 
 ## Ru: Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 5, задание 2. Макет одной страницы Газпром банк.
 
-## Ru: Выполненное задание: 
-Сверстайте на странице онлайн-журнала «Про финансы» для сайта «Газпромбанка» шапку и основное содержимое страницы со статьями, включающее в себя сетку из различных карточек и боковую навигационную панель, основываясь на дизайне из предоставленного макета в Figma.
-
 ## En: Completed Task:
 Layout the header and main content area of the “Pro Finance” online magazine page for the Gazprombank website.
 The content includes a grid of various article cards and a sidebar navigation panel, based on the design provided in the Figma mockup.
+
+## Ru: Выполненное задание: 
+Сверстайте на странице онлайн-журнала «Про финансы» для сайта «Газпромбанка» шапку и основное содержимое страницы со статьями, включающее в себя сетку из различных карточек и боковую навигационную панель, основываясь на дизайне из предоставленного макета в Figma.
 
 En: Portfolio layout link: https://www.figma.com/design/UyCvNmvTXrGgajdKsAHvsQ/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%94%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-FWEB-5358?node-id=1-2&p=f&t=bZFuqNFbDwrahGyi-0
 
