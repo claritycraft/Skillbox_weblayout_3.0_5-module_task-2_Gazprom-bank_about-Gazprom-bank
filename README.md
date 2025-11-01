@@ -4,9 +4,9 @@
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 #### Please give this project a ⭐ if you found it interesting.
 
-## En: Completed coursework for the Skillbox Web Development 3.0 course, Module 5, Assignment 2: Single-page layout for the Gazprombank site Gorod Pay. 
+En: Completed coursework for the Skillbox Web Development 3.0 course, Module 5, Assignment 2: Single-page layout for the Gazprombank site Gorod Pay. 
 
-## Ru: Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 5, задание 2. Макет одной страницы Газпром банк.
+Ru: Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 5, задание 2. Макет одной страницы Газпром банк.
 
 ## En: Completed Task:
 Layout the header and main content area of the “Pro Finance” online magazine page for the Gazprombank website.
